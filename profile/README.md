@@ -21,3 +21,50 @@
 
  - اثراء المحتوي العربي 
   > لما لا يكون هناك شركات كبرى عربية  ( manga ) مطور عربي شرح عربي شركة عربية 
+
+# منهج علوم الحاسب
+
+## Concept language
+- [ ] variables
+ - var
+ - const
+- [ ] data types
+- [ ] Operators
+ - Assignment operator
+ - Comparison operator
+ - Arithmetic operator
+ - Bitwise operator
+ - Logical operator
+ - Comma operator
+ - Unary operator
+ - Relational operator
+  
+- [ ] functions
+- [ ] comments
+- [ ] arrays
+- [ ] objects
+- [ ] conditions
+ - if
+ - else
+ - else if
+ - switch ( match )
+ - tarnary oprator
+- [ ] loops
+ - for loop
+ - while
+ - do while
+ - each 
+- [ ] advanced data types 
+   - numbers 
+    - int
+      - i8
+      - i16
+      - i32
+      - i64
+      - i128
+      - ( unsigned also )
+    - float
+    - duble
+  - string
+   - char
+  
